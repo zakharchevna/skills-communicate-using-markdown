@@ -5,3 +5,8 @@
 ![Beautiful anime girl with long hair](https://imgupscaler.com/images/samples/anime-before.webp)
 
 *Note! This picture was made by [img.Upscaler](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgupscaler.com%2F&psig=AOvVaw3Ajo0Xnh8_8RIjFFsRwdrI&ust=1710066947972000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCNiFivr95oQDFQAAAAAdAAAAABAF)*
+
+```javascript
+const md = () => 'markdown';
+console.log(md "is cool. I like it!");
+```
