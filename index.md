@@ -10,3 +10,7 @@
 const md = () => 'markdown';
 console.log(md "is cool. I like it!");
 ```
+- [x] Keep learning and improving
+- [ ] Complete GitHub Foundations course
+- [ ] Update my GitHub account
+- [ ] Move on
